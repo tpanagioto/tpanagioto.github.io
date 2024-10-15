@@ -1,6 +1,6 @@
 # **Λίγα πράγματα για εμένα**
 
-<img src="me1.jpg" alt="Profile Picture" style="width:50px;height:50px;">
+<!--<img src="me1.jpg" alt="Profile Picture" style="width:50px;height:50px;">-->
 
 |Ονοματεπώνυμο|Παναγιωτόπουλος Αναστάσιος Παναγιώτης|
 |---|---|

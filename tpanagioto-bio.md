@@ -1,4 +1,6 @@
 # **Λίγα πράγματα για εμένα**
 
-[Εικόνα δική μου](https://https://tpanagioto.github.io/me.jpg)
+<picture>
+ <img alt="ME" src="me.jpg">
+</picture>
 Παναγιωτόπουλος Αναστάσιος  
